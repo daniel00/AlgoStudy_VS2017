@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="키큰사람은몇명_QucikSelect.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BIT.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준_7469_K번째숫자_응용.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="키큰사람은몇명_백준7469_K번째숫자_응용_2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\DataGen\DataGen_키큰사람은몇명.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="answer_5.txt" />
+    <Text Include="answer_8.txt" />
+    <Text Include="answer_5_file.txt" />
+    <Text Include="answer_8_file.txt" />
+    <Text Include="test_input_tall.txt" />
+    <Text Include="test_input_tall_1.txt" />
+    <Text Include="test_input_tall_2.txt" />
+    <Text Include="test_input_tall_3.txt" />
+    <Text Include="test_input_tall_4.txt" />
+    <Text Include="test_input_tall_5.txt" />
+    <Text Include="test_input_tall_6.txt" />
+    <Text Include="test_input_tall_7.txt" />
+    <Text Include="test_input_tall_8.txt" />
+    <Text Include="test_input_tall_9.txt" />
+    <Text Include="answer_8_file_SegTree.txt" />
+    <Text Include="answer_5_file_SegTree.txt" />
+  </ItemGroup>
+</Project>

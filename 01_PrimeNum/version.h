@@ -1,0 +1,7 @@
+#define GIT_REV_COUNT	"3" 
+#define GIT_REV_DATE	"2016-11-12 11:08:09 +0900"  
+#define GIT_REV_HASH	"653c1fc8"  
+#define GIT_REV_URL		"https://yookeunsik@bitbucket.org/yookeunsik/algostudy2.git"   
+#define GIT_REV_DIRTY	"M" 
+#define GIT_REV_STAGED	""
+#define GIT_APP_REV		"M3-653c1fc8"   
